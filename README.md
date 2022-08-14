@@ -8,6 +8,10 @@ EnergyStar is a terrible* Windows application that leverages [Windows EcoQoS API
 
 *: By saying _terrible_, I mean currently there are a few known limitations on track to be addressed. See below.
 
+EnergyStar runs in a terminal window and boosts or throttles applications based on which one is active and which ones are idle.
+
+[See it in action](https://replayable.io/replay/62f95b3f8716cc0062b9dfc8)
+
 ## Known Limitations
 
 * Child processes do not get boosted when the parent process receives input focus.
